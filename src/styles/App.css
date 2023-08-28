@@ -1,0 +1,50 @@
+.menu {
+    text-align: center;
+    padding: 20px;
+  }
+  .navbar {
+    /* display: flex;
+    align-items: center; /* Vertically center the content */
+    /* justify-content: space-between;  */
+    margin-bottom: 20px;
+  }
+
+   h1{
+    text-align: center;
+
+  }
+
+  .nav-links a{
+    text-align: center;
+    text-decoration: none;
+  }
+
+  .nav-links  {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    justify-content: center;
+    flex-wrap: nowrap;
+  }
+  .menu-items {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+  }
+  .menu-items .item {
+    flex: 0 0 calc(33.3333% - 40px);
+    max-width: calc(33.3333% - 40px);
+    padding: 20px;
+    border: 1px solid #ddd;
+  }
+
+
+
+
+/* .item-detail{
+
+    display: flex;
+    margin-left: 400px;
+    margin-top: -100px;
+} */
